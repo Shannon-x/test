@@ -42,7 +42,7 @@ window.CONFIG = {
 
   // 全局页面配置
   page: {
-    layout: "concise", // 布局模式: common 常规布局，concise 简约布局
+    layout: "common", // 布局模式: common 常规布局，concise 简约布局
     loader: {
       skeleton: true, // 是否显示骨架屏
       minimum: 1200, // 骨架屏最低显示时间，单位毫秒
